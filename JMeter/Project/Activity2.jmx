@@ -40,7 +40,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="sshKey" elementType="Argument">
               <stringProp name="Argument.name">sshKey</stringProp>
-              <stringProp name="Argument.value">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHv/wLQ9SOIKdNu/Mzt3dyAC93BhAq6T0ystctYHhyhk</stringProp>
+              <stringProp name="Argument.value">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICd5K4FskA0W8U8JYHtKj1StzLVvGdI7yH5RcR6bZjk7G</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
           </collectionProp>
