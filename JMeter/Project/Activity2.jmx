@@ -22,7 +22,7 @@
           <collectionProp name="HeaderManager.headers">
             <elementProp name="" elementType="Header">
               <stringProp name="Header.name">Authorization</stringProp>
-              <stringProp name="Header.value">token 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</stringProp>
+              <stringProp name="Header.value">token ghp_3kjL7M8oVqr9xFwD2B8kRpA4jZ1Tn7yXU0Q12</stringProp>
             </elementProp>
           </collectionProp>
         </HeaderManager>
