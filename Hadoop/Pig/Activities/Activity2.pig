@@ -7,6 +7,6 @@ grpd = GROUP words BY word;
 -- Count the occurence of each word (Reduce)
 cntd = FOREACH grpd GENERATE group, COUNT(words);
 --Remove th eold results folder
-rmf hdfs:///user/abhilasha28/PigResult;
+rmf hdfs:///user/vibha.vibha/PigResult;
 -- Store the result in HDFS
 STORE cntd INTO 'hdfs:///user/vibha.vibha/PigResult';
